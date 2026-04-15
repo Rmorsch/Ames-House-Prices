@@ -1,3 +1,7 @@
+#Manually curated .gitignore for Python projects, created by GitHub's gitignore.io service.
+kaggle.json
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
